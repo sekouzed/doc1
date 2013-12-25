@@ -1,0 +1,7 @@
+a,fghjk,ghj,ghnj,
+AB02,4901,Dioubate,sekouzed
+RU53,5897,Bensat,Mohamed
+G032,3850,Khebbou,Driss
+EG49,4387,toto,Tata
+ZE43,6458,Zibary,Titi
+RT78,5882,Sany,Abdoul

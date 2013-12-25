@@ -1,0 +1,12 @@
+AB02,Dioubate,sekouzed,Etudiant
+RU53,Bensat,Mohamed,Etudiant
+G032,Khebbou,Driss,Etudiant
+EG49,toto,Tata,Etudiant
+ZE43,Zibary,Titi,Etudiant
+RT78,Sany,Abdoul,Etudiant
+CF49,Carlos,Roberto,Professeur
+CJ58,Azmanie,Yazzine,Professeur
+IU37,Salim,Titi,Professeur
+IO45,Lamrani,Fatima,Professeur
+LK87,Zine,Ahmed,Professeur
+RJ89,Toto,Abdoul,Professeur

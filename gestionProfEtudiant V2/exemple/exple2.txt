@@ -1,0 +1,6 @@
+CF49,maths,Carlos,Roberto
+CJ58,anglais,Azmanie,Yazzine
+IU37,chimie,Salim,Driss
+IO45,phylosophie,Lamrani,Fatima
+LK87,informatique,Zine,Ahmed
+RJ89,langue,Toto,Driss

@@ -1,0 +1,29 @@
+Realisé par:
+----------------------
+DIOUBATE SEKOU    
+---------------------- 
+
+
+
+configuration 
+--------------
+
+ 1-avant de lancer le programme:
+
+ Importer et executerle fichier "servicedata.sql" dans votre serveur à travers des application tellesque "mysql workbench" ou "phpMyadmin".
+ Mais rassurez vous d'avoir installer "mysql-connector-odbc-5.1.11".ceci est le driver odbc de mysql pour cpp.
+
+ 2-lancer le programme et aller dans le menu "configuration":
+
+serveur:"localhost"
+user:"root"
+password = << le mot de passe de votre serveur MYSQL >>.
+database = "servicedata"
+
+ 3-connecter vous:
+
+exemple de compte adminitrateur pour se connecter:
+-login: titi 
+-pasword:titi
+-login: toto
+-pasword: toto

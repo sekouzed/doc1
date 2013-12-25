@@ -1,0 +1,31 @@
+projet:
+ dev un mini shell unix qui includ :
++execut les cmd unix
++la plus part des appel system vu en cours, 
++signaux,
++des tube, 
++fifo,
++fille de message
+-semaphor pour la lectur ou modification du fichier.
+-les socket: lancer une conversation(tchat) en 2 personn basé sur 
+
+1_le travail
+2_rapport avec captur d'ecran en dixaine d page
+3_presentation sous openOfice
+4_tous sur un repertoire avec mon nom
+
+
+
+1. Introduction 
+2. Personalisation de quelque commande unix .
+3. Redirection du resultat d'une commande vers une autre commande
+4. Rediriger le resultat d'une commande dans un autre ternimal 
+5.L'application “messager” 
+3. les signaux, 
+
+6. semaphor pour la lectur ou modification du fichier. 
+7. les socket: lancer une conversation(tchat) en 2 personne 
+8. la fonction preparerLigneDeCommande()
+9. la finction execution()
+10. la fonction main()
+
